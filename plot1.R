@@ -1,3 +1,8 @@
+## Coursera Exploratory Data Analysis Assignment - Course Project 1
+##
+## This script creates picture plot1.png
+## The initialization of the environment is done in script plot_init.R
+##
 source("plot_init.R")
 
 png_file <- file.path(figure_dir, "plot1.png")
